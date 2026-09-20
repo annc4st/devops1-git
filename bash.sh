@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1
 done
 echo End of the loop
+echo  Creating PR
